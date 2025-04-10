@@ -14,4 +14,8 @@ describe('SONAR assertion', function() {
   it('Standard test', function() {
     expect(false).to.be.false
   });
+
+  it('Standard test', function() {
+    // no expect here
+  });
 });
